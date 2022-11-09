@@ -1,3 +1,3 @@
 # DemoStreamlit 
 
-suivre ce lien https: https://marccostes-pybnbproject-streamlit-airbnb04-7kpehw.streamlit.app/
+suivre ce lien  pour accéder à la démo : https://marccostes-pybnbproject-streamlit-airbnb04-7kpehw.streamlit.app/
